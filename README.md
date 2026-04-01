@@ -1,9 +1,9 @@
 <div style="border: 3px solid #ffffff; background-color: #1e1e1e; padding: 25px; margin: 20px 0; border-radius: 8px; text-align: center;">
-  <h1 style="margin: 0; font-size: 2.4em; color: #ffffff;">Разработка игры в жанре социально-психологической хоррор на Unity</h1>
+  <h1 style="margin: 0; font-size: 2.4em; color: #ffffff;">Разработка игры в жанре социально-психологический хоррор на Unity</h1>
 </div>
 
 **Дипломная работа**  
-**Тема:** «Разработка игры в жанре социально-психологической хоррор на движке Unity»
+**Тема:** «Разработка игры в жанре социально-психологический хоррор на движке Unity»
 
 <div style="border: 3px solid #ffffff; background-color: #1e1e1e; padding: 18px; margin: 20px 0; border-radius: 8px;">
   <strong>Автор:</strong> Самойлов Захар Игоревич<br>
