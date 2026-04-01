@@ -17,7 +17,7 @@
 
 <div style="border: 3px solid #ffffff; background-color: #1e1e1e; padding: 22px; margin: 20px 0; border-radius: 8px;">
   <h2 style="margin-top: 0; color: #ffffff;">О проекте</h2>
-  Простая, но концептуально сильная социально - психологическая хоррор - игра в классическом визуальном стиле PS1.<br><br>
+  Простая, но концептуально сильная социально-психологическая хоррор-игра в классическом визуальном стиле PS1.<br><br>
   <strong>Ключевые особенности:</strong>
   <ul>
     <li>Визуал: low-poly, dithering, VHS-эффекты и grain</li>
